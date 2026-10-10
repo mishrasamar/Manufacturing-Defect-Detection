@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Project outputs (batch results are regenerated on every run)
+outputs/*
+!outputs/.gitkeep
+
+# OS / IDE noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

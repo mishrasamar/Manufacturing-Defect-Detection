@@ -1,0 +1,25 @@
+# ---------------------------------------------------------------------------
+# Automated Manufacturing Defect Detection and Quality Audit System
+# Python dependencies (tested with Python 3.13 on Windows)
+# ---------------------------------------------------------------------------
+# Core image processing
+opencv-python>=4.11.0
+numpy>=2.1
+
+# Data handling and analysis
+pandas>=2.2
+openpyxl>=3.1
+
+# Dashboard
+streamlit>=1.40
+
+# Reporting and documentation
+reportlab>=4.2
+matplotlib>=3.9
+Pillow>=10.4
+
+# Configuration
+PyYAML>=6.0.2
+
+# Testing
+pytest>=8.3
